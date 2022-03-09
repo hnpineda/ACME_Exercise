@@ -18,6 +18,8 @@ If two workers have a coincidence on the workday and an overlapping of the worki
 
 ## Execution
 
+Run with Java 17.
+
 - Open the shell or command line in the directory where the repository was downloaded.
 
 - Execute the command: javac *.java.
